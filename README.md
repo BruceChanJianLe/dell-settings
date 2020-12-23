@@ -2,6 +2,13 @@
 
 This repository demonstrates the usage of dell cctk command line.
 
+## Content
+
+- [Installation](#Installation)
+- [Settings for Battery Charging](#Settings-for-Battery-Charging)
+- [Reference](#Reference)
+
+
 ## Installation
 
 Visit this link for installation guide. [link](https://topics-cdn.dell.com/pdf/command-configure-v42_install-guide_en-us.pdf)
